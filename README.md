@@ -16,7 +16,7 @@ Passionate web developer with a keen eye for design and a love for creating seam
 ### 🌐 Connect with Me
 - LinkedIn: Isaac Datch
 - Twitter: @zeechey_datche
-- Portfolio: https://brandon-isaac.github.io/portfolio.github.io/
+- Portfolio: [https://brandon-isaac.github.io/portfolio.github.io/](https://brandon-isaac.github.io/My-Portfolio/)
   
 ### 🌱 I’m Currently Learning
 Mastering RUBY and TYPESCRIPT to create more exclusive web3 applications
