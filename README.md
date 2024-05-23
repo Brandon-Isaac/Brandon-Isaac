@@ -9,4 +9,5 @@ Passionate web developer with a keen eye for design and a love for creating seam
 ### 🌐 Connect with Me
 - Portfolio: [Isaac Brandon Datch](https://brandon-isaac.github.io/My-Portfolio/)
 
-#### Thanks for stopping by! Let's build something amazing together! 🚀
+#### Thanks for stopping by! Let's build something amazing together! 
+FUN FACT...Thats what she said☝☝
