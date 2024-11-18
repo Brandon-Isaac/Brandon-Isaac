@@ -11,4 +11,3 @@ Also a blockchain enthusiast learning the key concepts in web 3 integration with
 - Portfolio: [Isaac Brandon Datch](https://brandon-isaac.github.io/My-Portfolio/)
 
 #### Thanks for stopping by! Let's build something amazing together! 
-FUN FACT...Thats what she said☝☝
