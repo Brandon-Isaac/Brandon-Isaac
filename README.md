@@ -8,6 +8,6 @@ Also a blockchain enthusiast learning the key concepts in web 3 integration with
 ![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandon-isaac&show_icons=true&theme=tokyonight&hide_rank=true)
 
 ### 🌐 Connect with Me
-- Portfolio: [Isaac Brandon Datch](https://portfolio-pwciul3cn-brandon-isaacs-projects.vercel.app/#footer)
+- Portfolio: [Isaac Brandon Datch](https://portfolio-sage-iota-27.vercel.app/)
 
 #### Thanks for stopping by! Let's build something amazing together! 
