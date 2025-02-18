@@ -11,3 +11,4 @@ Also a blockchain enthusiast learning the key concepts in web 3 integration with
 - Portfolio: [Isaac Brandon Datch](https://portfolio-sage-iota-27.vercel.app/)
 
 #### Thanks for stopping by! Let's build something amazing together! 
+#### Remember, if the going gets tougher , get harder😎😎 
