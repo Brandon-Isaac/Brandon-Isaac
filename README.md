@@ -1,6 +1,6 @@
 ## 👋 Hello World! I'm Isaac Datch
 
-Passionate web developer with a keen eye for design and a love for creating seamless, user-friendly experiences. I specialize in WEB DEVELOPMENT and I'm always exploring new ways to push the boundaries of web development.
+Passionate web developer with a keen eye for design and a love for creating seamless, user-friendly experiences. I specialize in SOFTWARE DEVELOPMENT and I'm always exploring new ways to push the boundaries of web development.
 Also a blockchain enthusiast learning the key concepts in web 3 integration with android applications
 
 ### 🚀 My Tech Stack
