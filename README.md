@@ -15,20 +15,12 @@ I'm a passionate **Full Stack Developer** focused on building impactful, user-ce
 - **Cloud & AI**: AWS (Educate), OpenAI, Gemini, Python (ML Basics)
 
 ---
-
-### 📻 Now Playing on Spotify
-
-[]([![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31frm3rqq5v4m6jqzhj5nqlsrlvm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://github.com/kittinan/spotify-github-profile)
-
----
-
 ### 📊 GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brandon-isaac&layout=pie)](https://github.com/brandon-isaac/github-readme-stats)  
 ![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandon-isaac&show_icons=true&theme=tokyonight&hide_rank=true)
 
 ---
-
 ### 🌐 Connect With Me
 
 - 🌍 Portfolio: [Isaac Brandon Datch](https://portfolio-sage-iota-27.vercel.app/)
@@ -37,6 +29,10 @@ I'm a passionate **Full Stack Developer** focused on building impactful, user-ce
 
 ---
 
+### 📻 NoLets groove on Spotify
+([![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31frm3rqq5v4m6jqzhj5nqlsrlvm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://github.com/kittinan/spotify-github-profile)
+
+---
 ### 💬 Motto
 > **“If the going gets tougher, get harder 😎😎”**
 
