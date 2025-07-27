@@ -19,6 +19,7 @@ I'm a passionate **Full Stack Developer** focused on building impactful, user-ce
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brandon-isaac&layout=pie)](https://github.com/brandon-isaac/github-readme-stats)  
 ![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandon-isaac&show_icons=true&theme=tokyonight&hide_rank=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Brandon%20Isaac)](https://git.io/streak-stats)
 
 ---
 ### 🌐 Connect With Me
