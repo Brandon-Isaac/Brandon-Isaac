@@ -22,10 +22,12 @@ Here’s a snapshot of the tools and technologies I work with regularly:
 
 ### 📈 GitHub at a Glance
 
-![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandon-isaac&show_icons=true&theme=tokyonight&hide_rank=true)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brandon-isaac&layout=compact&theme=tokyonight)](https://github.com/brandon-isaac/github-readme-stats)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=Brandon-Isaac&theme=tokyonight)](https://git.io/streak-stats)  
-[![Trophy](https://github-profile-trophy.vercel.app/?username=brandon-isaac&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+### 📈 GitHub at a Glance
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Brandon-Isaac&show_icons=true&theme=tokyonight&hide_rank=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brandon-Isaac&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=BrandonIsaac&theme=tokyonight)
+![Trophy](https://github-profile-trophy.vercel.app/?username=YOUR-EXACT-USERNAME&theme=darkhub)
 
 ---
 
