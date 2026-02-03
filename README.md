@@ -22,8 +22,8 @@ Here’s a snapshot of the tools and technologies I work with regularly:
 
 ### 📈 GitHub at a Glance
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Brandon-Isaac&show_icons=true&theme=tokyonight&hide_rank=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brandon-Isaac&layout=compact&theme=tokyonight)
+![GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Brandon-Isaac&show_icons=true&theme=tokyonight&hide_rank=true)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Brandon-Isaac&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com?user=Brandon-Isaac&theme=tokyonight)
 ![Trophy](https://github-profile-trophy.vercel.app/?username=Brandon-Isaac&theme=darkhub)
 
