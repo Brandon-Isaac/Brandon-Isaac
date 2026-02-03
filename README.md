@@ -21,10 +21,10 @@ Here’s a snapshot of the tools and technologies I work with regularly:
 ---
 
 ### 📈 GitHub at a Glance
-| <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Brandon-Isaac&show_icons=true&theme=tokyonight&hide_rank=true" width="400" /> | <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Brandon-Isaac&layout=compact&theme=tokyonight" width="300" /> |
-
-| :--- | :--- |
-| <img src="https://streak-stats.demolab.com?user=Brandon-Isaac&theme=tokyonight" width="400" /> | <img src="https://github-profile-trophy.vercel.app/?username=Brandon-Isaac&theme=darkhub" width="300" /> |
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Brandon-Isaac&show_icons=true&theme=tokyonight&hide_rank=true" width="400" /> 
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Brandon-Isaac&layout=compact&theme=tokyonight" width="300" />
+<img src="https://streak-stats.demolab.com?user=Brandon-Isaac&theme=tokyonight" width="400" />
+<img src="https://github-profile-trophy.vercel.app/?username=Brandon-Isaac&theme=darkhub" width="300" /> |
 
 ---
 
